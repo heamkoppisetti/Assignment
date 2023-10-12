@@ -1,2 +1,7 @@
 blah blah blah blah ahhhhhhhhhhhhhhhhhhhhhhhhh
 heloooooooooo
+<<<<<<< HEAD
+=======
+file created by Heam
+time is not added in the file
+>>>>>>> 92a6db1 (Changes are made)
